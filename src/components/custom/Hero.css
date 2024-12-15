@@ -1,0 +1,3 @@
+.hero-container { display: flex; align-items: center; justify-content: center; margin-left: 14rem; /* mx-56 equivalent */ margin-right: 14rem; /* mx-56 equivalent */ gap: 2.25rem; /* gap-9 equivalent */ height: 100vh; /* Full viewport height */ }
+h1 { font-weight: 800; /* font-extrabold equivalent */ font-size: 60px; /* text-[60px] equivalent */ text-align: center; /* text-center equivalent */ color: #333; /* Adjust text color as needed */margin-top: 4rem;}
+h1 .highlight { color: #f56551; /* Custom color for highlighted text */}

@@ -1,0 +1,5 @@
+
+.header-container { display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; /* Adjust padding as needed */ } 
+.logo { width: 50px; /* Adjust size as needed */ height: auto; }
+ .button-container { display: flex; align-items:center;}
+ .header-separator { border: none;  height: 2px; background-color: #ccc;  margin: 0; }
